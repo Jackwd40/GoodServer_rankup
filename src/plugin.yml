@@ -1,0 +1,8 @@
+name: goodserver_rankup
+main: gs.rankup.pkg.main
+version: 1.0
+description: The plugin designed specifically for Good Server to fix the rank system
+commands:
+  rankup:
+    description: Move to the next rank!
+    usage: /rankup

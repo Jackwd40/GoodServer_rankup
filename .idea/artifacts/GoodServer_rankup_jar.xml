@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GoodServer_rankup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GoodServer_rankup_jar</output-path>
+    <root id="archive" name="GoodServer_rankup.jar">
+      <element id="module-output" name="GoodServer_rankup" />
+    </root>
+  </artifact>
+</component>
