@@ -1,6 +1,6 @@
 name: goodserver_rankup
 main: gs.rankup.pkg.main
-version: 0.0.1
+version: 1.0
 description: The plugin designed specifically for Good Server to fix the rank system
 commands:
   rankup:
